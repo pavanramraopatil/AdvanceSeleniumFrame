@@ -7,7 +7,7 @@ public class Demo2test {
 	@Test
 	public void m1()
 	{
-		
+		// welcome 
 		System.out.println("maven is working");
 //git hub is working
 	}
